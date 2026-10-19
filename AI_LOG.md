@@ -1,6 +1,6 @@
 # AI协作记录
 
-姓名：刘梓皓  学号：2024280422  GitHub：Kozeki0423  提交编号：34 <p>
+姓名：刘梓皓  学号：2024280422  GitHub：Kozeki0423  提交编号：#2 学生编号：34 <p>
 工具与模型：Claude（Claude Code 编程助手），用于辅助实现与检查。Deepseek v4.1 Flash。
 
 ## 一项真实协作过程
